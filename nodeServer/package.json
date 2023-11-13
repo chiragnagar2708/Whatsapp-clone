@@ -1,0 +1,18 @@
+{
+  "name": "realtime_chat_nodeserver",
+  "version": "1.0.0",
+  "description": "This is realtime chat like application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "awesome"
+  ],
+  "author": "chirag",
+  "license": "ISC",
+  "dependencies": {
+    "socker.io": "^0.0.0-alpha-beta",
+    "socket.io": "^4.7.0"
+  }
+}
